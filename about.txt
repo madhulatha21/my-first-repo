@@ -1,3 +1,13 @@
 Name: Madhu latha
 Group: BCA
+
 One thing i learned from GitHub: GitHub is used to faster feedback loops.
+Why this matters
+Reviewable & Traceable
+Keeping PRs small ensures reviewers can understand the changes quickly and with confidence. It also simplifies tracing the cause of issues down the line.
+
+Safer Rollbacks
+If something goes wrong, having only one feature or fix in a PR makes it easy to revert without collateral damage.
+
+Faster Feedback Loops
+Short PRs mean less waiting and faster merges, which helps maintain project momentum and boosts morale 
